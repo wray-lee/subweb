@@ -1,5 +1,5 @@
-FROM tindy2013/subconverter
-LABEL maintainer="Stille <stille@ioiox.com>"
+FROM wray-lee/subconverter
+LABEL maintainer="wray-lee <wray_lee@outlook.com>"
 
 ENV VERSION 0.8.1
 
